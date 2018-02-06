@@ -1,0 +1,75 @@
+body{
+	background: url("../img/background.jpg") no-repeat center fixed;
+	background-size: cover;
+}
+.playFiled{
+	margin-left: 400px ;
+	margin-top: 50px ;
+	width: 500px ;
+	height: 500px ;
+	background:url("../img/playground.png")no-repeat center  ;
+	background-size: contain;
+}
+.b1{
+	margin-top: 50px ;
+	margin-left: 20px ;
+	width: 140px ;
+	height: 140px ;
+	border: 0px ;
+}
+.b2{
+	margin-top: 20px ;
+	margin-left: 15px ;
+	width: 140px ;
+	height: 140px ;
+	border: 0px ;
+}
+.b3{
+	margin-top: 20px ;
+	margin-left: 20px ;
+	width: 140px ;
+	height: 140px ;
+	border: 0px ;
+}
+.b4{
+	margin-top: 20px ;
+	margin-left: 20px ;
+	width: 140px ;
+	height: 140px ;
+	border: 0px ;
+}
+.b5{
+	margin-top: 20px ;
+	margin-left: 15px ;
+	width: 140px ;
+	height: 140px ;
+	border: 0px ;
+}
+.b6{
+	margin-top: 20px ;
+	margin-left: 20px ;
+	width: 140px ;
+	height: 140px ;
+	border: 0px ;
+}
+.b7{
+	margin-top: 20px ;
+	margin-left: 20px ;
+	width: 140px ;
+	height: 140px ;
+	border: 0px ;
+}
+.b8{
+	margin-top: 20px ;
+	margin-left: 15px ;
+	width: 140px ;
+	height: 140px ;
+	border: 0px ;
+}
+.b9{
+	margin-top: 20px ;
+	margin-left: 20px ;
+	width: 140px ;
+	height: 140px ;
+	border: 0px ;
+}
